@@ -1,9 +1,9 @@
 {
-  "name": "volto-editablefooter",
-  "version": "5.1.9",
+ "name": "rabax72/volto-secondfooter",
+  "version": "1.0.0",
   "description": "Volto addon for a customizable footer",
   "main": "src/index.js",
-  "repository": "https://github.com/RedTurtle/volto-editablefooter.git",
+  "repository": "https://github.com/rabax72/volto-secondfooter.git",
   "author": "collective",
   "license": "MIT",
   "devDependencies": {
